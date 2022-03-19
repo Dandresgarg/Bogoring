@@ -714,7 +714,7 @@ ul{
 
 video{
     width: 50%;
-    min-width: 400px;
+    min-width: 200px;
     margin: 30px;
     border-radius: 15px;
 }
@@ -795,6 +795,9 @@ video{
     }
     .contenedor-images .foto{
         width: 48%;
+    }
+    video{
+
     }
 }
 
